@@ -121,3 +121,6 @@ git push -u origin main
 
 - Wow Congratssss
 <img src = "pics/Screenshot 2021-06-13 at 1.10.12 PM.png">
+
+- You did great
+<img src = "https://thumbs.gfycat.com/WellwornPreciousBluebird-size_restricted.gif">
