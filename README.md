@@ -105,4 +105,19 @@ git commit -m "Added Your Name"
 ```
 git push -u origin main
 ```
+- After you pushed to your forked repo You need to create a Pull Request
+- Follow the instructions
+- Click on Pull request after you commited as shown 
+<img src = "pics/Screenshot 2021-06-13 at 1.07.31 PM.png">
 
+- Click on New Pull request
+<img src = "pics/Screenshot 2021-06-13 at 1.08.13 PM.png">
+
+- Click on Create Pull request as shown 
+<img src = "pics/Screenshot 2021-06-13 at 1.08.49 PM.png">
+
+- Click on Create
+<img src = "pics/Screenshot 2021-06-13 at 1.09.36 PM.png">
+
+- Wow Congratssss
+<img src = "pics/Screenshot 2021-06-13 at 1.10.12 PM.png">
