@@ -85,6 +85,9 @@ git checkout 66874b6 Hello.py
 ```
 git clone your forked repo url with no quotes
 ```
+
+<img src = "pics/Screenshot 2021-06-13 at 1.02.44 PM.png">
+            
 - Note Before cloning please install git 
 - After cloning Open the folder then edit the Hello.py file by adding the below command 
 ```
