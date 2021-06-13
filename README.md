@@ -79,6 +79,8 @@ git checkout 66874b6 Hello.py
 
 # Your Task
 - First fork this repo
+<img src = "pics/Screenshot 2021-06-13 at 12.57.19 PM.png">
+
 - Clone this Repo with the below command from your repository
 ```
 git clone your forked repo url with no quotes
