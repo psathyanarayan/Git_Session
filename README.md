@@ -75,3 +75,29 @@ git log --oneline
 git checkout 66874b6 Hello.py
 ```
 #### Then normally commit
+
+
+# Your Task
+- First fork this repo
+- Clone this Repo with the below command from your repository
+```
+git clone your forked repo url with no quotes
+```
+- Note Before cloning please install git 
+- After cloning Open the folder then edit the Hello.py file by adding the below command 
+```
+print("Your Name Here")
+```
+- Then add this to git by 
+```
+git add .
+```
+- Then Commit it with a message
+```
+git commit -m "Added Your Name"
+```
+- If you have configed git then 
+```
+git push -u origin main
+```
+
