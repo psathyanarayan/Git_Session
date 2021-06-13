@@ -7,7 +7,7 @@
 
 ## How to Install Git
 - Go to https://git-scm.com
-<img width = "60%" src = "pics/1.png">
+<img  width = "100%" src = "pics/1.png">
 
 - After Successfully installing with all Recommended Settings 
 - Open your CMD/Terminal
